@@ -1,0 +1,39 @@
+.form-wrapper {
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    min-width: 300px;
+}
+
+.form {
+    
+}
+
+.form__input {
+    margin-bottom: 10px;
+}
+
+input {
+    min-width: 220px;
+    float: right;
+}
+
+.form__button {
+    height: 30px;
+    width: 100%;
+}
+
+._error {
+    border-color: red;
+    background-color: rgba(255,0,0, 0.16);
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+button {
+    border: none;
+    font-size: 16px;
+}

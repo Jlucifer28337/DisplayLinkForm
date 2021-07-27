@@ -1,0 +1,10 @@
+.feed-wrapper {
+    padding: 20px;
+    border: 1px #000 solid;
+    border-radius: 8px;
+    max-width: 500px;
+    margin: 20px auto;
+}
+.feed__community-name {
+    margin-top: 0;
+}
